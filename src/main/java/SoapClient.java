@@ -11,6 +11,7 @@ public class SoapClient {
             System.out.println("1. Adivinar numero");
             System.out.println("2. Quitar vocales");
             System.out.println("3. RFC");
+            System.out.println("4. Salir");
             option = scanner.nextInt();
 
             switch (option) {
